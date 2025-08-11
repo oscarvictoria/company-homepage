@@ -58,6 +58,19 @@ main section {
   text-align: center;
 }
 
+footer ul {
+  text-align: center;
+}
+
+footer p {
+  text-align: center;
+}
+
+footer ul li {
+  display: inline;
+
+}
+
 @media screen and (max-width: 760px) {
 
   header {
