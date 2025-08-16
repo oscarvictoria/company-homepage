@@ -78,7 +78,14 @@ nav ul li {
   padding: 20px;
   display: flex;
   border: 2px solid black;
-  justify-content: space-between;
+  justify-content: space-around;
+}
+
+.team img {
+
+height: 600px;
+width: 400px;
+
 }
 
 main section {
