@@ -3,6 +3,13 @@ body {
   padding: 0;
 }
 
+img {
+  height: 90%;
+  width: 90%;
+
+
+}
+
 header {
   /* background-color: teal; */
   display: flex;
@@ -51,6 +58,19 @@ nav ul li {
   /* padding: 120px; */
   overflow-wrap: break-word;
   border: 1px solid #fff;
+
+}
+
+.featured-products {
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-around;
+ 
+}
+
+.item {
+  padding-top: 20px;
+  border: 2px solid black;
 
 }
 
