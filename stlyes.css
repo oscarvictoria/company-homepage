@@ -61,6 +61,10 @@ nav ul li {
 
 }
 
+main h1 {
+  text-align: center;
+}
+
 .featured-products {
   border: 2px solid black;
   display: flex;
@@ -97,11 +101,12 @@ main section {
 }
 
 .about p {
-  /* width: 80%; */
-  line-height: 42px;
+  margin: 0 auto;
+  width: 80%;
+  line-height: 1.7;
   padding: 60px 20px;
-  border: 2px solid black;
-  font-size: 18px;;
+ 
+  font-size: 1.6rem;
   height: 300px;
 }
 
