@@ -92,6 +92,19 @@ main section {
   text-align: center;
 }
 
+.about {
+  text-align: center;
+}
+
+.about p {
+  /* width: 80%; */
+  line-height: 42px;
+  padding: 60px 20px;
+  border: 2px solid black;
+  font-size: 18px;;
+  height: 300px;
+}
+
 footer ul {
   text-align: center;
 }
