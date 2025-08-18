@@ -69,6 +69,7 @@ main h1 {
   border: 2px solid black;
   display: flex;
   justify-content: space-around;
+  
  
 }
 
@@ -76,6 +77,7 @@ main h1 {
   padding: 30px 0;
   border: 2px solid black;
   min-width: 400px;
+  
 
 }
 
@@ -83,14 +85,17 @@ main h1 {
   margin: 0 auto;
   padding: 20px;
   display: flex;
+  flex-wrap: wrap;
   border: 2px solid black;
   justify-content: space-around;
-  /* width: 1200px; */
+  min-width: 800px;
+
 }
 
 .team {
   /* border: 2px solid black; */
-  flex:0 0 400px;         
+  flex:0 0 400px;      
+
 
 }
 
@@ -205,5 +210,5 @@ footer ul li {
  }
 
 
-
 }
+
