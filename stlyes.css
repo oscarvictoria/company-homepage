@@ -75,6 +75,7 @@ main h1 {
 .item {
   padding: 30px 0;
   border: 2px solid black;
+  min-width: 400px;
 
 }
 
@@ -106,19 +107,21 @@ main section {
 
 .about {
   text-align: center;
+  min-width: 400px;
+
 }
 
 .about h2 {
-  margin-top: 120px;
+  margin-top: 140px;
   font-size: 36px;
 }
 
 .about p {
-  margin: 0 auto;
+  margin: 40px auto;
   width: 80%;
   line-height: 1.7;
   padding: 60px 20px;
- 
+  min-width: 800px;
   font-size: 1.6rem;
   height: 300px;
 }
@@ -139,7 +142,6 @@ footer li {
 }
 
 .copyright {
-
   margin: 0 auto;
   text-align: center;
 }
