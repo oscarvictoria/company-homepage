@@ -123,17 +123,35 @@ main section {
   height: 300px;
 }
 
+footer {
+  margin: 30px;
+
+}
+
 footer ul {
+
+
+}
+
+footer li {
+  padding: 2px;
+
+}
+
+.copyright {
+
+  margin: 0 auto;
   text-align: center;
 }
 
-footer p {
-  text-align: center;
+.copyright p {
+  position: relative;
+  left: 20px;
 }
+
 
 footer ul li {
   display: inline;
-
 }
 
 @media screen and (max-width: 760px) {
